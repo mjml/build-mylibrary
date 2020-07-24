@@ -1,4 +1,4 @@
-OpenDesktop Library Builder
+FreeDesktop Library Builder
 ===========================
 
 Really simple: I maintain a folder called $HOME/read that contains pdfs, openoffice files, urls, and text documents.
