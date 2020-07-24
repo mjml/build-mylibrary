@@ -3,7 +3,7 @@ OpenDesktop Library Builder
 
 Really simple: I maintain a folder called $HOME/read that contains pdfs, openoffice files, urls, and text documents.
 
-This raku script scans that folder and creates OpenDesktop application links and directory folders that can be placed
+This raku script scans that folder and creates FreeDesktop application links and directory folders that can be placed
   into an XFCE folder that is accessible from a desktop panel.
 
 So it's like a separate "start menu" into my personal library.
